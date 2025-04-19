@@ -47,9 +47,9 @@ Being part of OpenLearn means you get to:
 
 Getting involved is easy:
 
-1.  **Hop on Discord:** This is our main hub! Join the [**OpenLearn NITJ Discord Server**](YOUR_DISCORD_INVITE_LINK) to chat, ask questions, and stay updated.
+1.  **Hop on Discord:** This is our main hub! Join the [**OpenLearn NITJ Discord Server**](dicord.gg) to chat, ask questions, and stay updated.
 2.  **Check Out Events:** Participate in our workshops, talks, and coding sessions. Find the schedule on Discord or our website.
-3.  **Contribute Code:** Explore projects built by the community (check our showcase!) or list your own. Follow our [**Contribution Guide**](#) (*Link needed*) for smooth collaboration.
+3.  **Contribute Code:** Explore projects built by the community (check our showcase!) or list your own. Follow our [**Contribution Guide**](https://github.com/openlearnnitj/.github/blob/main/CONTRIBUTING.md) for smooth collaboration.
 4.  **Share Your Knowledge:** Got something cool to share? Volunteer for a Lightning Talk! Thinking about writing a tech blog? We can feature it!
 5.  **Bring Ideas:** Got an idea for a workshop or project? Suggest it on Discord!
 
@@ -64,7 +64,7 @@ We run a mix of things to keep learning fresh and engaging:
 *   **Project Showcase:** Featuring awesome open-source projects built right here at NITJ.
 *   **Community Blog:** Sharing insights, tutorials, and event summaries written by members.
 
-*Find specifics on upcoming activities on Discord and our [Website](YOUR_WEBSITE_LINK).*
+*Find specifics on upcoming activities on Discord and our [Website](openlearn@nitj.ac.in).*
 
 ## Connect With Us <a name="connect"></a>
 
