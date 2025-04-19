@@ -1,0 +1,10 @@
+# .github/ISSUE_TEMPLATE/config.yml
+
+# Hides the link to create a blank issue, encouraging template use.
+blank_issues_enabled: false
+
+# Suggests external links, like Discord for questions.
+contact_links:
+  - name: 💬 Ask a Question on Discord
+    url: [discord.gg/]
+    about: Please ask and answer general questions here first.
