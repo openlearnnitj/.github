@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://via.placeholder.com/800x200/1a1a2e/16213e?text=OpenLearn+%7C+Accelerating+Tomorrow%27s+Innovators" alt="OpenLearn Banner">
+  <img src="https://github.com/openlearnnitj/.github/blob/main/profile/Gradient%20Elegant%20Line%20Gaming%20Twitter%20Header%20Banner.jpg" alt="OpenLearn Banner">
 </h1>
 
 <h1 align="center">Welcome to OpenLearn! 🚀</h1>
@@ -9,17 +9,18 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/openlearn)
-  [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/openlearnorg)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/openlearn)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@openlearn)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenLearn)
+  *"Innovation distinguishes between a leader and a follower. The people in the Indian countryside don't use their intellect like we do, they use their intuition instead, and their intuition is far more developed than in the rest of the world... Intuition is a very powerful thing, more powerful than intellect, in my opinion."*
+  
+  **— Steve Jobs**
   
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Learning GIF">
-  <img height="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Data Science GIF">
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/openlearn-nitj)
+  [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OpenLearn_NITJ)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openlearnnitj)
+  
 </div>
 
 ## 🚀 About OpenLearn
@@ -110,7 +111,7 @@ openlearn.transform_careers()
 ## 🏆 Program Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆-Excellence_in_AI_Education-gold?style=for-the-badge" alt="Excellence Award" />
+  <img src="https://img.shields.io/badge/🏆-Recognised_by_Centre_for_AI_|_NIT_J-gold?style=for-the-badge" alt="Excellence Award" />
   <img src="https://img.shields.io/badge/🌟-Top_Rated_Program-yellow?style=for-the-badge" alt="Top Rated" />
   <img src="https://img.shields.io/badge/🚀-Innovation_Leader-orange?style=for-the-badge" alt="Innovation Leader" />
 </div>
@@ -124,24 +125,14 @@ openlearn.transform_careers()
 - 📈 **Career Advancement** - Direct pathway to industry opportunities  
 - 🏅 **Recognized Certification** - Industry-standard credentials  
 
-## 📝 Steve Jobs Quote
-
-<div align="center">
-  
-  *"Innovation distinguishes between a leader and a follower. The people in the Indian countryside don't use their intellect like we do, they use their intuition instead, and their intuition is far more developed than in the rest of the world... Intuition is a very powerful thing, more powerful than intellect, in my opinion."*
-  
-  **— Steve Jobs**
-  
-</div>
 
 ## 📞 Connect With Us
 
 **Ready to transform your career in AI, ML, and Finance?**
 
-- 🌐 **Website**: [www.openlearn.org](https://www.openlearn.org)
-- 📧 **Email**: admissions@openlearn.org
-- 💬 **Discord Community**: [Join Our Learning Hub](https://discord.gg/openlearn)
-- 📱 **WhatsApp**: [Quick Support](https://wa.me/openlearn)
+- 🌐 **Website**: [www.openlearn.org.in](https://www.openlearn.org.in)
+- 📧 **Email**: --
+- 📱 **WhatsApp**: [Quick Support](https://chat.whatsapp.com/B7cvzXeKjwdB9k9BsmvbDY)
 
 ---
 
