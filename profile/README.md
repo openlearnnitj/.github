@@ -94,7 +94,7 @@ openlearn.transform_careers()
 
 | Repository | Description | Link |
 |------------|-------------|------|
-| **📖 Resources Hub** | Comprehensive learning materials and guides | [openlearn/resources](https://github.com/OpenLearn/resources) |
+| **📖 Resources Hub** | Comprehensive learning materials and guides | [openlearn/resources](https://github.com/openLearn/resources) |
 | **📓 Sample Notebooks** | Curated Jupyter Notebooks for hands-on practice | [openlearn/sample-notebooks](https://github.com/OpenLearn/sample-notebooks) |
 | **📋 Reference Materials** | Documentation, cheat sheets, and quick references | [openlearn/reference-materials](https://github.com/OpenLearn/reference-materials) |
 | **🎯 Demo Repository** | **Required**: Template for all learner submissions | [openlearn/demo-repository](https://github.com/OpenLearn/demo-repository) |
