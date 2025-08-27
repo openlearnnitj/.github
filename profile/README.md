@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://github.com/openlearnnitj/.github/blob/main/profile/Gradient%20Elegant%20Line%20Gaming%20Twitter%20Header%20Banner.jpg" alt="OpenLearn Banner">
-</h1>
+<img width="3000" height="1000" alt="openlearnV2" src="https://github.com/user-attachments/assets/d655c777-b29e-4ed0-8225-0e4394fc9c5f" />
 
 <h1 align="center">Welcome to OpenLearn! 🚀</h1>
 <p align="center">
